@@ -1,0 +1,7 @@
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos de IDE (Opcional)
+.idea/
+*.pyc
